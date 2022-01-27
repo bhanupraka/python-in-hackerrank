@@ -1,2 +1,2 @@
 # python-in-hackerrank
-I solved various challenge in hackerrank using python programming language
+I solved various challenges in hackerrank using python programming language
